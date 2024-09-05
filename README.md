@@ -2,10 +2,10 @@
 
 <img src="https://github.com/ChipSelectCS/Robotic_Actuator/blob/main/Screenshot%202024-09-02%20132754.png" width="600" />
 <img src="https://github.com/ChipSelectCS/Robotic_Actuator/blob/main/Screenshot%202024-09-02%20132828.png" width="300" />
-<img src="https://github.com/ChipSelectCS/Robotic_Actuator/blob/main/Screenshot%202024-09-02%20132940.png" width="600" />
+<img src="https://github.com/ChipSelectCS/Robotic_Actuator/blob/main/Screenshot%202024-09-02%20132940.png" width="300" />
 
 vv YouTube video below vv
-[![Simple Robotic Actuator V1](https://img.youtube.com/vi/CoDPtKGf-C4/0.jpg)](https://www.youtube.com/watch?v=CoDPtKGf-C4)
+[![Simple Robotic Actuator V1](https://github.com/ChipSelectCS/Robotic_Actuator/raw/main/Screenshot%202024-09-05%20125536.png)](https://www.youtube.com/watch?v=CoDPtKGf-C4)
 
 ## Description
 My first attempt at making a robotic actuator which kind of works, but too fast. Instead, I should have used motors with lower speed and higher torque.
